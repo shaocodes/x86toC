@@ -1,0 +1,24 @@
+# Visual Studio build output
+bin/
+obj/
+Debug/
+Release/
+x64/
+*.exe
+*.pdb
+*.ilk
+*.obj
+*.idb
+
+# Visual Studio user / cache files
+.vs/
+*.user
+*.suo
+*.VC.db
+*.VC.VC.opendb
+
+# Local editor/tooling settings -- machine-specific, not part of the submission
+.claude/settings.local.json
+
+# VS regenerates this; it only affects Solution Explorer grouping
+*.vcxproj.filters
