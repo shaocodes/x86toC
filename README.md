@@ -1,3 +1,5 @@
+S25D Shao Wei Wang
+
 # Dot Product: C vs. x86-64 Assembly (Scalar SIMD)
 
 Computes `sdot = sum(A[i] * B[i])` over two double-precision vectors, once in C and once in
