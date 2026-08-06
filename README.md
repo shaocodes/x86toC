@@ -79,4 +79,4 @@ n = 2³⁰ would need 16 GiB of vectors on a 16 GB machine, so the largest size 
 
 ## Video walkthrough
 
-▶ [Watch the walkthrough](PASTE_VIDEO_URL_HERE)
+▶ [Watch the walkthrough](https://youtu.be/6PGWbf63lDs)
