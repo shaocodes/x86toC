@@ -78,7 +78,3 @@ accumulator, each iteration has to wait for the previous addition to finish.
 
 n = 2³⁰ would need 16 GiB of vectors on a 16 GB machine, so the largest size was reduced to 2²⁹
 (8 GiB). Its 0.81 ns/element matches the smaller sizes, so it was not paging.
-
-## Video walkthrough
-
-▶ [Watch the walkthrough](https://youtu.be/6PGWbf63lDs)
